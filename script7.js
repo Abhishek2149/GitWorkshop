@@ -1,3 +1,3 @@
 //conflict statements
 console.log("User A")
-console.log("User C")
+console.log("User B")
